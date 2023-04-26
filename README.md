@@ -9,5 +9,6 @@ How to Play:
 > Click on the "Hold" button to add your current score to your total score. Your turn ends and the other player takes over.
 > If you roll a 1, your current score becomes zero and your turn ends.
 > The first player to reach 100 points wins the game.
+
 Installation : 
 To run the game on your local machine, simply download or clone this repository, and open the index.html file in your web browser
